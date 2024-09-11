@@ -1,0 +1,1 @@
+# ipartners-admin-tool-mac
